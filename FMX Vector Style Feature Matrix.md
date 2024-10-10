@@ -13,11 +13,11 @@ This document provides an overview of the features supported by each file in the
 | calloutpanelstyle | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 | checkboxstyle | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 | checkcellstyle | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
-| circlebuttonstyle | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 |
+| circlebuttonstyle | 0 | 0 | 0 | 1 | 1 | 0 | 1 | 0 |
 | clearingeditstyle | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 | closebuttonstyle | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 |
 | colorbuttonstyle | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
-| colorlistboxitemstyle | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 1 |
+| colorlistboxitemstyle | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 | comboboxstyle | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 | comboeditstyle | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 | combopopupstyle | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
@@ -96,7 +96,7 @@ This document provides an overview of the features supported by each file in the
 | toolbarstyle | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 | trackbarstyle | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 | trackstyle | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
-| transparentbuttonstyle | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 1 |
+| transparentbuttonstyle | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 | transparentcirclebuttonstyle | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 | transparentlistboxstyle | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 | treeviewexpanderbuttonstyle | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
@@ -259,11 +259,8 @@ This document provides an overview of the features supported by each file in the
 
 **Not implemented features in Light:**
 
-- circlebuttonstyle
-- colorlistboxitemstyle
 - thumbbarstyle
 - thumbstyle
-- transparentbuttonstyle
 
 ### RubyGraphite
 

@@ -1,0 +1,30 @@
+object Parent
+    // comment
+    property1 = value1
+    object Child
+		StyleName = child1
+        // another comment
+        property2 = value2
+		
+		object Child
+			StyleName = child11
+			// another comment
+			property = value
+		end
+		
+    end
+	
+    object Child2
+		StyleName = child2
+        // another comment
+        property2 = value2
+		
+		object Child
+			StyleName = child21
+			// another comment
+			property = value
+		end
+		
+    end
+	
+end
